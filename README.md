@@ -16,4 +16,4 @@ npm run test
 
 ## Images
 
-![](public/images/shi-testing.gif)
+![](public/shi-testing.gif)
