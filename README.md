@@ -13,3 +13,7 @@ npm install
 ```sh
 npm run test
 ```
+
+## Images
+
+![](public/images/shi-testing.gif)
