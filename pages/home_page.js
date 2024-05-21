@@ -9,9 +9,9 @@ class HomePage {
     await this.driver.get("https://www.shi.com/");
   }
 
-  async clickTopic(id, class_name) {
+  async clickTopic(id, className) {
     const topic = await this.driver.findElement(By.id(id));
-    const subTopic = await this.driver.findElement(By.className(class_name));
+    const subTopic = await this.driver.findElement(By.className(className));
 
     await topic.click();
     await subTopic.click();
