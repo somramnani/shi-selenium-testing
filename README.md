@@ -17,3 +17,5 @@ npm run test
 ## Images
 
 ![](public/shi-testing.gif)
+
+![](public/command-line.png)
