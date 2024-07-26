@@ -1,6 +1,16 @@
 # SHI Website Testing Automation
 The SHI Website Testing Automation project is designed to ensure the functionality and reliability of the SHI website through automated testing. This project leverages Selenium, JavaScript, and Mocha to perform comprehensive testing and bug detection.
 
+## Table of Contents
+- [Purpose](#purpose)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running UI Test](#running-ui-test)
+- [Images](#images)
+
 ## Purpose
 This project aims to maintain the SHI website's high standards by automating the testing process, thus improving efficiency and ensuring a smooth user experience.
 
