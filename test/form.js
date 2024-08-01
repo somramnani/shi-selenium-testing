@@ -9,7 +9,7 @@ describe("Login Page Test", function () {
   this.timeout(30000);
 
   before(async function () {
-    driver = await new Builder().forBrowser(Browser.FIREFOX).build();
+    driver = await new Builder().forBrowser(Browser.CHROME).build();
     formPage = new LoginPage(driver);
   });
 
