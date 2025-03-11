@@ -35,7 +35,7 @@ This project aims to maintain the SHI website's high standards by automating the
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shi-website-testing.git
+git clone https://github.com/somramnani/shi-selenium-testing.git
 ```
 
 2. Install Packages
