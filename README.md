@@ -1,4 +1,9 @@
 # SHI Website Testing Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
 The SHI Website Testing Automation project is designed to ensure the functionality and reliability of the SHI website through automated testing. This project leverages Selenium, JavaScript, and Mocha to perform comprehensive testing and bug detection.
 
 ## Table of Contents
