@@ -11,5 +11,10 @@
   "dependencies": {
     "mocha": "^10.4.0",
     "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^127.0.1",
+    "codecov": "^3.8.3",
+    "nyc": "^17.0.0"
   }
 }

@@ -9,7 +9,7 @@ describe("Home Page tests", function () {
   this.timeout(30000);
 
   before(async function () {
-    driver = await new Builder().forBrowser(Browser.FIREFOX).build();
+    driver = await new Builder().forBrowser(Browser.CHROME).build();
     homePage = new HomePage(driver);
   });
 
